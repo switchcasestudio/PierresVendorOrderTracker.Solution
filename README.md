@@ -59,7 +59,7 @@ known bugs:
 
 ## Project Structure
 
-![Project Structure](https://github.com/Object-ions/PierresVendorOrderTracker.Solution/blob/main/PierresVendorOrderTracker/wwwroot/img/ProjectStructure.png)
+![Project Structure](https://github.com/switchcasestudio/PierresVendorOrderTracker.Solution/blob/main/PierresVendorOrderTracker/wwwroot/img/ProjectStructure.png)
 
 ## License
 
@@ -85,4 +85,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Project Link: [https://github.com/Object-ions/PierresVendorOrderTracker](https://github.com/Object-ions/PierresVendorOrderTracker)
+Project Link: [https://github.com/switchcasestudio/PierresVendorOrderTracker](https://github.com/switchcasestudio/PierresVendorOrderTracker)
